@@ -1,0 +1,1 @@
+# truegear-haptic-effects
